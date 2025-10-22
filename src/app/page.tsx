@@ -75,7 +75,7 @@ export default function Home() {
 
 				<div className="mt-auto mb-[32px] flex items-center justify-center gap-2">
 					<FaConnectdevelop fontSize={18} />
-					<a href="https://myporto.vercel.app" className="text-blue-500 underline">
+					<a href="https://flexporto.vercel.app" className="text-blue-500 underline">
 						Made By Joel
 					</a>
 				</div>
